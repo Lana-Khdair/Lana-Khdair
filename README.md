@@ -27,9 +27,12 @@ I'm a **Computer Science student** specialized in **Artificial Intelligence** at
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Projects 
 ### 📂 Online Job Portal
 A full-stack job portal web application (**team project**).
+
+⚡ **My contribution:** Implemented authentication and the home page.  
+⚠️ Some features are still pending from the team collaboration.
 
 **Frontend:**  
 <a href="https://github.com/Lana-Khdair/JobPortal">
@@ -43,6 +46,9 @@ A full-stack job portal web application (**team project**).
 
 ### 📂 E-Commerce Online Shop
 A frontend web application for electronics (**team project**).
+
+⚡ **My contribution:** Implemented home page and cart.  
+⚠️ Some features are still pending from the team collaboration.
 
 <a href="https://github.com/Lana-Khdair/E-Shop-Frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lana-Khdair&repo=E-Shop-Frontend&theme=radical" width="250"/>
