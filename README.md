@@ -37,7 +37,7 @@ A full-stack job portal web application.
 
 **Backend:**  
 <a href="https://github.com/Lana-Khdair/web2-Data">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lana-Khdair&repo=web2-Data&theme=radical" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lana-Khdair&repo=JobPortal-backend&theme=radical" width="250"/>
 </a>
 
 ### 📂 E-Commerce Online Shop
