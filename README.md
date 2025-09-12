@@ -43,6 +43,7 @@ A full-stack job portal web application (**team project**).
 
 ### 📂 E-Commerce Online Shop
 A frontend web application for electronics (**team project**).
+
 <a href="https://github.com/Lana-Khdair/E-Shop-Frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lana-Khdair&repo=E-Shop-Frontend&theme=radical" width="250"/>
 </a>
