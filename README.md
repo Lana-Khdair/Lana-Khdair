@@ -2,8 +2,7 @@
 
 I'm a **Computer Science student** specialized in **Artificial Intelligence** at An-Najah National University.  
 
-## 📫 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-khdair-609565366/)  
+## 📫 Contact   
 [![Email](https://img.shields.io/badge/Email-lanakhdair4@gmail.com-c14438?style=plastic&logo=gmail&logoColor=white)](mailto:lanakhdair4@gmail.com)
 
 ## GitHub Stats
