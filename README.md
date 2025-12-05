@@ -5,11 +5,6 @@ I'm a **Computer Science student** specialized in **Artificial Intelligence** at
 ## 📫 Contact   
 [![Email](https://img.shields.io/badge/Email-lanakhdair4@gmail.com-c14438?style=plastic&logo=gmail&logoColor=white)](mailto:lanakhdair4@gmail.com)
 
-## GitHub Stats
-
-![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lana-Khdair&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lana-Khdair&layout=compact&theme=radical)
-
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
