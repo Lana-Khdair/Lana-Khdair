@@ -75,8 +75,10 @@ Python • Scikit-learn • Pandas • Streamlit • Matplotlib
 - Interactive dashboard
 - Time-series evaluation
 
-🎥 Demo:
-- https://drive.google.com/file/d/1ULj6APPOjkeLSyJEjbMylsTE244YyuWn/view
+
+🌐 Live Demo: https://mceqmf7bjp3uwtqbz3lbve.streamlit.app/
+
+🎥 Demo: https://drive.google.com/file/d/1ULj6APPOjkeLSyJEjbMylsTE244YyuWn/view
 
 🔗 GitHub:
 - https://github.com/Lana-Khdair/gold-price-prediction
